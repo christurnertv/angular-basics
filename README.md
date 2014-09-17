@@ -1,6 +1,6 @@
 # Intro to AngularJS
 
-Presented as a live coding demonstration at the San Antonio WebDev meetup on September 17th, 2014.
+Presented at the San Antonio WebDev meetup on September 18th, 2014.
 
 ## Topics Covered
 
